@@ -2,7 +2,7 @@
 Welcome to Essistant v1.4.7, sync test
 '''
 
-# pyinstaller -i "C:\Users\LynnL\Downloads\sadpanda.ico" -p "C:\Program Files (x86)\Microsoft Visual studio\Shared\Python37_64" -p "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib" -p "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages" -F Essistant.py
+# pyinstaller -i "C:\Users\LynnL\Pictures\Saved Pictures\sadpanda.ico" -p "C:\Program Files (x86)\Microsoft Visual studio\Shared\Python37_64" -p "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib" -p "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Lib\site-packages" -F Essistant.py
 
 from requests import get
 from bs4 import BeautifulSoup
