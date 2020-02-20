@@ -1,6 +1,6 @@
 .vscode/launch.json
 Essistant.exe
 Essistant.spec
-log.xls
-log.xls.bac
+log.csv
+log.csv.bak
 __pycache__/Essistant.cpython-37.pyc
